@@ -1,0 +1,14 @@
+[
+  {
+    "influencerId" : 1,
+    "buyPrice": 100,
+    "quantity": 10000,
+    "userId": "user_2d7QUdfKr5S49AhEfT61Fctwgzy"
+  },
+  {
+    "influencerId" : 2,
+    "buyPrice": 100,
+    "quantity": 10000,
+    "userId": "user_2d7QUdfKr5S49AhEfT61Fctwgzy"
+  }
+]
